@@ -27,3 +27,8 @@ p {
     display: block;
     font-size: 25px;
 }
+
+.cta {
+    color: aquamarine;
+    font-size: 16px;
+}
